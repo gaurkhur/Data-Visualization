@@ -5,7 +5,7 @@ This dataset was gathered from RITA and contains a list of 583,985 flights that 
 Link to dataset - http://stat-computing.org/dataexpo/2009/the-data.html
 
 # About the analysis
-I wanted to present the analysis in a way to analyze arrival and departure delays and focus on reasoning behind the flight delays in the busiest airports (as per dataset), identify the worst performing carriers (in terms of maximum delayed flights) and identify trends for these delays.
+I wanted to present the analysis in a way to identify patterns and correlation between arrival and departure delays, focus on reasoning behind the flight delays at the busiest airports (as per dataset), identify the worst performing carriers (in terms of maximum delayed flights) and look at trends for these delays.<br>
 
 # Summary
 1.Chicago had the highest average departure and arrival delay time. <br>
